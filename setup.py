@@ -12,13 +12,13 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'mypackage'
-DESCRIPTION = '填写你的项目简短描述.'
-URL = 'https://github.com/你的github账户/mypackage'
-EMAIL = 'me@example.com'    # 你的邮箱
-AUTHOR = 'Awesome Soul'     # 你的名字
+NAME = 'lwlpackage'
+DESCRIPTION = 'lwl的pythpn库进行测试.'
+URL = 'https://github.com/2892211452/myPackage'
+EMAIL = '2892211452@qq.com'    # 你的邮箱
+AUTHOR = 'xingzhe'     # 你的名字
 REQUIRES_PYTHON = '>=3.6.0' # 项目支持的python版本
-VERSION = '0.1.0'           # 项目版本号
+VERSION = '0.1.4'           # 项目版本号
 
 # What packages are required for this module to be executed?
 REQUIRED = [
